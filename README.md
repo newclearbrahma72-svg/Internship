@@ -1,3 +1,3 @@
 # INTERNSHIP
 
-## The Data Collection and Dataset Collection for Various Applications
+## The Data Collection and Dataset Cration for Various Applications
